@@ -1,41 +1,19 @@
-
-# Hi, I'm Nit Preet Singh 👋
-
-🚀 Aspiring Data Scientist | Machine Learning Enthusiast
-
-I'm currently learning Data Science and Machine Learning, with a focus on turning data into meaningful insights.
-I enjoy exploring datasets, building visualizations, and continuously improving my analytical thinking.
-
-## 🛠️ Skills
-
-* 📊 Data Analysis & Visualization
-* 🧠 Machine Learning (Beginner)
-* 🗄️ SQL
-* 📈 Excel
-* 🌐 Flask (Basic Web Apps)
+# 💫 About Me:
+<br><br>I am an aspiring Data Scientist and Machine Learning enthusiast, currently building a strong foundation in data analysis, statistical modeling, and intelligent systems. I am passionate about transforming raw data into actionable insights and developing solutions that solve real-world problems.<br><br>I have hands-on experience working with datasets, performing data cleaning, visualization, and implementing basic machine learning models. I continuously explore new tools and techniques to improve my analytical thinking and problem-solving abilities.<br><br>I am dedicated to learning by doing — working on real-world projects, strengthening my technical skills, and staying consistent in my growth journey in the field of Data Science.<br><br>Core Skills & Technologies:<br>- Programming & Tools: Python, SQL, Excel  <br>- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn  <br>- Machine Learning: Supervised Learning (Beginner), Scikit-learn  <br>- Web & Frameworks: Flask (Basic Applications) ,Streamlit <br>- Concepts: Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA)  <br><br>Currently Exploring:<br>- Advanced Machine Learning Techniques  <br>- Data Preprocessing & Feature Engineering  <br>- Real-world Data Science Projects  <br><br>Tools & Platforms:<br>- Git & GitHub, Jupyter Notebook, VS Code  
 
 
-## 🌱 Currently Learning
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nit_Preet_Singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nit-preet-singh-95580939a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NitSingh56125) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitpreet2006sep@gmail.com) 
 
-* Advanced Machine Learning
-* Data Cleaning & Feature Engineering
-* Building real-world data projects
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nit-Preet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nit-Preet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nit-Preet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Nit-Preet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 What I'm Working On
-
-I'm currently practicing with datasets and improving my skills by solving real-world data problems.
-Projects coming soon 🚧
-
-## 💡 About Me
-
-I’m passionate about learning new technologies and growing step by step in the field of Data Science.
-I believe in learning by doing and staying consistent every day.
-
-## 📫 Connect with Me
-
-* LinkedIn: https://www.linkedin.com/in/nit-preet-singh-95580939a/
-* Email: nitpreet2006sep@gmail.com
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
